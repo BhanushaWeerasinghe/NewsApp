@@ -4,6 +4,7 @@ This is a News App built using React Native and Expo. The app fetches articles f
 
 ![Screenshot](assets/Screenshots(1).jpeg)
 ![Screenshot](assets/Screenshots(2).jpeg)
+![Screenshot](assets/Screenshots(3).jpeg)
 
 Features
 - Display latest/trending news articles
