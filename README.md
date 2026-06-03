@@ -2,6 +2,9 @@
 
 This is a News App built using React Native and Expo. The app fetches articles from NewsAPI.org and displays them in a simple, scrollable list. You can browse trending news and (optionally) filter or expand to category-based views.
 
+![Screenshot](assets/Screenshots(1).jpeg)
+
+
 Features
 - Display latest/trending news articles
 - Show article title, image, description and published date
