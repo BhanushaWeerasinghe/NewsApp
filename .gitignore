@@ -1,0 +1,26 @@
+node_modules/
+.expo/
+/.vscode/
+npm-debug.log
+.env
+config.js
+*.log
+android/
+ios/
+build/
+web-build/
+dist/
+*.tgz
+node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
